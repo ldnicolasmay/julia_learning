@@ -1,0 +1,12 @@
+.Rhistory
+.DS_Store
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.data
+*.zip
+*.txt
+*.names
+*checkpoint*
+
